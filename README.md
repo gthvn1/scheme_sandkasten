@@ -1,4 +1,4 @@
-# Scheme kindergarten
+# Scheme sandkasten
 
 <img src="https://racket-lang.org/img/racket-logo.svg"
      alt="Racket"
